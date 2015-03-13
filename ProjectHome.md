@@ -1,0 +1,1 @@
+WPF interfaces implementing various Cellular Automata, Strange Attractors, Chaotic Maps, Fractals and other complex systems.
